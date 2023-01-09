@@ -45,7 +45,7 @@
     "eslint-plugin-prettier": "^3.3.0",
     "html-minifier": "^4.0.0",
     "jsonfile": "^6.1.0",
-    "luxon": "^1.25.0",
+    "luxon": "^1.28.1",
     "markdown-it": "^11.0.1",
     "markdown-it-imsize": "^2.0.1",
     "module-alias": "^2.2.2",
